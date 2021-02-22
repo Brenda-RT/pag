@@ -16,7 +16,7 @@ nav{
     background-color: palevioletred;
     margin-left: 200px;
     position: absolute;
-    width: 1165px;
+    width:80%
 }
 nav a {
     
@@ -46,7 +46,7 @@ nav li:hover{
     margin-left: 0%;
     margin-top: 0px;
     padding: 0;
-    width: 200px;
+    width: 20%;
     position: fixed;
     height: 100%;
     overflow:auto;
