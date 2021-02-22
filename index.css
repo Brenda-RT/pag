@@ -32,7 +32,7 @@ nav a {
 }
 nav li{
     display: inline-block;
-    width: 19%;
+    width: 20%;
     height: 20%;
     padding: 2%;
     text-align: center;
@@ -51,7 +51,7 @@ nav li:hover{
     padding: 0;
     width: 20%;
     position: fixed;
-    height: 75%;
+    height: 73%;
     overflow:auto;
     background-image: url(textura5.jpg);
     background-repeat: no-repeat;
