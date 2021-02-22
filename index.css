@@ -16,7 +16,7 @@ body{
 }
 nav{
     background-color: palevioletred;
-    margin-left: 200px;
+    margin-left: 20%;
     position: absolute;
     width:80%;
 }
@@ -31,7 +31,7 @@ nav a {
 }
 nav li{
     display: inline-block;
-    width: 233px;
+    width: 10%;
     height: 50px;
     padding: 15px;
     text-align: center;
@@ -55,6 +55,5 @@ nav li:hover{
     background-image: url(textura5.jpg);
 }
 .redes{
-    margin-top: 250px;
-    content: "lsdjasdjasdjasdsada";
+    margin-top: 20%;
 }
