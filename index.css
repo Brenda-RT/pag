@@ -11,12 +11,14 @@ body{
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: 100%;
+    width:100%;
+
 }
 nav{
     background-color: palevioletred;
     margin-left: 200px;
     position: absolute;
-    width:80%
+    width:80%;
 }
 nav a {
     
