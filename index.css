@@ -25,14 +25,14 @@ nav a {
     
     padding: 0%;
     margin: 0%;
-    font-size: 10%;
+    font-size: 5%;
     text-decoration: none;
     font-family:'Gill Sans', 'Gill Sans MT';
     color: black;
 }
 nav li{
     display: inline-block;
-    width: 5%;
+    width: 8%;
     height: 5%;
     padding: 2%;
     text-align: center;
