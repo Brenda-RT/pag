@@ -32,8 +32,8 @@ nav a {
 }
 nav li{
     display: inline-block;
-    width: 10%;
-    height: 5%;
+    width: 15%;
+    height: 10%;
     padding: 2%;
     text-align: center;
     position: relative;
