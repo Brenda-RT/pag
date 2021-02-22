@@ -25,15 +25,15 @@ nav a {
     
     padding: 0%;
     margin: 0%;
-    font-size: 20%;
+    font-size: 10%;
     text-decoration: none;
     font-family:'Gill Sans', 'Gill Sans MT';
     color: black;
 }
 nav li{
     display: inline-block;
-    width: 4%;
-    height: 50px;
+    width: 5%;
+    height: 5%;
     padding: 2%;
     text-align: center;
     position: relative;
@@ -54,6 +54,8 @@ nav li:hover{
     height: 100%;
     overflow:auto;
     background-image: url(textura5.jpg);
+    background-repeat: no-repeat;
+
 }
 .redes{
     margin-top: 20%;
