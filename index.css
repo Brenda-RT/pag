@@ -18,7 +18,7 @@ body{
 nav{
     background-color: palevioletred;
     margin-left: 20%;
-    position: absolute;
+    position: relative;
     width:80%;
 }
 nav a {
